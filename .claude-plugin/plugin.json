@@ -1,0 +1,7 @@
+{
+  "name": "path-links",
+  "version": "0.1.0",
+  "description": "回复中的本地路径变成链接：单击在访达定位并复制路径",
+  "license": "MIT",
+  "author": { "name": "CaptSteven" }
+}

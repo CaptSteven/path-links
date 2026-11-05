@@ -1,0 +1,6 @@
+{
+  "name": "path-links",
+  "owner": { "name": "CaptSteven" },
+  "metadata": { "description": "Claude Code mod：回复中的本地路径可点击，在访达定位并复制路径" },
+  "plugins": [{ "name": "path-links", "source": "./" }]
+}
