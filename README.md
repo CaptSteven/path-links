@@ -1,5 +1,13 @@
 # path-links
 
+> 让 Claude Code 回复中的本地路径可点击，在 Finder 中定位并复制路径。
+
+**技术栈：** TypeScript · Claude Code 插件 / hooks · macOS
+
+**使用边界：** 单击行为依赖 Claude Code 全屏界面；定位使用 macOS `open -R`。
+
+---
+
 让 Claude Code 回复里的本地文件路径变成可点击的链接：**单击路径，就在访达（Finder）里高亮这个文件，同时把路径复制到剪贴板**。不弹提示，只改显示，不改对话记录。
 
 Turns local file paths in Claude Code replies into links: a click reveals the file in Finder and copies its path to the clipboard. macOS only.
@@ -49,3 +57,5 @@ claude plugin install path-links --marketplace CaptSteven/path-links
 ## 许可证
 
 MIT
+
+<!-- 更新备注：YANG KAISEN，2026-11-11；改写与核对依据见工作区变更记录。 -->
